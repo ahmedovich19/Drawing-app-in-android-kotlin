@@ -73,5 +73,3 @@ You can download and install the latest version of the app from the GitHub Relea
 
 **[Download the latest APK here!](https://github.com/ahmedovich19/Drawing-app-in-android-kotlin/releases)**
 
-*(This link will work after you follow the steps below and upload a release.)*
-
